@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.destination-item{
+    list-style-type: none;
+    padding: 5px;
+}
+.image{
+    height: 200px;
+    width: 200px;
+}
+.name{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #0f172a;
+}
